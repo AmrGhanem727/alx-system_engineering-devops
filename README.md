@@ -1,1 +1,2 @@
-first assignment
+Repo for training on scripting
+
